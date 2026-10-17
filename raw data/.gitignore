@@ -1,7 +1,0 @@
-fb_profile/
-cookies.json
-output/
-sentiment/data/
-sentiment/models/
-__pycache__/
-*.safetensors
